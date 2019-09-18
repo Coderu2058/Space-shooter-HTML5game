@@ -11,6 +11,6 @@ To play the game:
   The game can be played here: 
   
 
-And here is a video demo of the game: https://www.youtube.com/watch?v=C2Z1RckdnCw
+And here is a video demo of the game: 
 
  
