@@ -9,8 +9,9 @@ To play the game:
   - fire the laser with the space bar.
   
   The game can be played here: 
-  
+  https://github.com/uday1311ups/Space-shooter-HTML5game/tree/master/Space-Shooter-browser-game-master
 
 And here is a video demo of the game: 
+ 
 
  
